@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ad-service
+  profiles:
+    active:
+      default
+  cloud:
+    config:
+      enabled: true
